@@ -1,1 +1,27 @@
-p { background-color: red; }
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    margin-right: 20px;
+    
+  }
+  
+  .second-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    margin-right: 20px;
+  }
+  
+  .third-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    margin-right: 20px;
+  }
+  
+
+  .container {
+    display: flex;
+  }
+  
